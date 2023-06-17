@@ -1,2 +1,2 @@
-# f2-contest-april
-f2 contest 1 april
+# f2-contest-June
+f2 contest 1 June
